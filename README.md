@@ -1,6 +1,6 @@
 # Meridian Calendar
 
-![Meridian Calendar](https://drive.google.com/file/d/1bdrjgJK1DJRD5J_Dy3TF_8lfZGYwyQ4A/view?usp=sharing)
+![Meridian Calendar](https://pin.it/4Skwhxo7S)
 
 > A premium, feature-rich calendar application with an elegant dark-themed UI, built with vanilla HTML, CSS, and JavaScript.
 
