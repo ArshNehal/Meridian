@@ -275,7 +275,7 @@ Streamlined event list for quick event overview.
 **[Try Meridian Calendar Live](https://meridiancalendar.netlify.app/)**
 
 
-##**Creator**: arsh_nehal (Discord) 
+**Creator**: arsh_nehal (Discord) 
 
 **Made with ❤️ for better productivity**
 
