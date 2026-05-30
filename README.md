@@ -1,6 +1,7 @@
 # Meridian Calendar
 
-![Meridian Calendar](https://pin.it/4Skwhxo7S)
+<img width="2000" height="2000" alt="meridianlogo" src="https://github.com/user-attachments/assets/886b5a66-752d-48e9-a88c-2253d7ccff83" />
+
 
 > A premium, feature-rich calendar application with an elegant dark-themed UI, built with vanilla HTML, CSS, and JavaScript.
 
