@@ -235,8 +235,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, feature requests, or feedback:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
-- Website: [your-website.com]
+- Contact: [arshnehal17@gmail.com]
 
 ## 🎨 Design Credits
 
@@ -246,27 +245,18 @@ For issues, feature requests, or feedback:
 
 ## 🚀 Future Roadmap
 
-- [ ] Local storage persistence
-- [ ] Cloud sync with Firebase
-- [ ] Event categories and color coding
-- [ ] Recurring events
-- [ ] Event reminders/notifications
-- [ ] Multi-user support
-- [ ] Calendar sharing
-- [ ] Export to iCal format
-- [ ] Dark/Light theme toggle
-- [ ] Mobile app version
+-  Local storage persistence
+-  Cloud sync with Firebase
+-  Event categories and color coding
+-  Recurring events
+-  Event reminders/notifications
+-  Multi-user support
+-  Calendar sharing
+-  Export to iCal format
+-  Dark/Light theme toggle
+-  Mobile app version
 
-## 📸 Screenshots
 
-### Month View
-Clean, organized calendar with all events visible at a glance.
-
-### Week View
-Detailed hourly breakdown perfect for scheduling.
-
-### List View
-Streamlined event list for quick event overview.
 
 ---
 
