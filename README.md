@@ -267,4 +267,4 @@ For issues, feature requests, or feedback:
 
 **Made with ❤️ for better productivity**
 
-Meridian Calendar © 2024. All rights reserved.
+Meridian Calendar © 2026. All rights reserved.
