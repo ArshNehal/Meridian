@@ -270,9 +270,7 @@ Streamlined event list for quick event overview.
 
 ---
 
-## 🌐 Live Demo
- 
-**[Try Meridian Calendar Live](https://meridiancalendar.netlify.app/)**
+
 
 
 **Creator**: arsh_nehal (Discord) 
