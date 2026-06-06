@@ -5,6 +5,13 @@
 
 > A premium, feature-rich calendar application with an elegant dark-themed UI, built with vanilla HTML, CSS, and JavaScript.
 
+
+
+Uploading Screen Recording 2026-06-06 154429.mp4…
+
+
+
+
 ## ✨ Features
 
 ### 📅 Multiple Views
